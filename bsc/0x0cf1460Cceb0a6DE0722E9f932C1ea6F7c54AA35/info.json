@@ -1,0 +1,11 @@
+{
+    "decimals" : 18,
+    "description" : "Gem Wallet Token (GWT) is the official token of Gem Guard Wallet, a mobile-based cryptocurrency wallet that is used for trading, buying, and selling NFT's & cryptocurrencies. GWT is a chance for anyone on the platform of Gem Wallet to hold and own their very own (affordable) crypto asset backed by the platform itself. GWT has a burning mechanism that decreases its total supply and increases its value.",
+    "explorer" : "https://bscscan.com/token/0x0cf1460cceb0a6de0722e9f932c1ea6f7c54aa35",
+    "id" : "0x0cf1460cceb0a6de0722e9f932c1ea6f7c54aa35",
+    "name" : "Gem Wallet Token",
+    "status" : "active",
+    "symbol" : "GWT",
+    "type" : "BEP20",
+    "website" : "https://www.gemguardwallet.com/"
+  }
